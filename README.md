@@ -34,7 +34,8 @@ This project demonstrates **OOP concepts, stack-based undo/redo, and game logic 
 ```
 ├── Main.java         # Entry point, handles menu & player choice
 ├── Game.java         # Core game logic (moves, win-check, timer if added)
-├── History.java      # Stores players and match results
+├── gamehistory.java  # Stores players and match results
+├── undoredo.java     #moves undo/redo functions
 └── README.md         # Project documentation
 ```
 
@@ -57,9 +58,8 @@ This project demonstrates **OOP concepts, stack-based undo/redo, and game logic 
 
 ---
 
-## 🎥 Demo (Optional)  
-_Add a screenshot or a short GIF of your game here._  
-Example:  
+## 🎥 Demo  
+
  
 
 ---
